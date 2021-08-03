@@ -8,7 +8,7 @@ const textBox =document.getElementById('text-box');
 
 // Dark or light Images 
 function imageMode(color){
-    image1.src=`img/undraw_Web_developer_${color}.svg`;
+    image1.src=`img/undraw_web_developer_${color}.svg`;
     image2.src=`img/undraw_taking_selfie_${color}.svg`;
     image3.src=`img/undraw_Travel_mode_${color}.svg`;
 }
